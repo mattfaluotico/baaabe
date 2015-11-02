@@ -1,0 +1,32 @@
+body {
+	margin: 0;
+	font-family: Open Sans, Sans-serif;
+}
+
+.person {
+	width: 50%;
+	margin: 0;
+	float: left;
+	text-align: center;
+}
+
+button {
+	-webkit-transition: all 0.2s;
+	background-color: #5049C9;
+	box-shadow: 0;
+	border: 0;
+	height: 80px;
+	width: 80px;
+	border-radius: 40px;
+	color: white;
+	font-size: 18pt;
+}
+
+button:hover {
+	background-color: #4225BD;
+	cursor: pointer;
+}
+
+button:focus {
+	outline: none;
+}
