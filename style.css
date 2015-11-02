@@ -3,6 +3,21 @@ body {
 	font-family: Open Sans, Sans-serif;
 }
 
+h1 {
+	text-align: center;
+	font-weight: 900;
+}
+
+h2 {
+	font-weight: 100;
+	font-size: 24pt;
+	margin: 0;
+}
+
+h3 {
+	margin: 15px;
+}
+
 .person {
 	width: 50%;
 	margin: 0;
